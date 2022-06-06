@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\code\csharp\calc_nogui\bin\Debug\net6.0\calc_nogui.exe
+C:\Users\admin\Documents\code\csharp\calc_nogui\bin\Debug\net6.0\calc_nogui.deps.json
+C:\Users\admin\Documents\code\csharp\calc_nogui\bin\Debug\net6.0\calc_nogui.runtimeconfig.json
+C:\Users\admin\Documents\code\csharp\calc_nogui\bin\Debug\net6.0\calc_nogui.dll
+C:\Users\admin\Documents\code\csharp\calc_nogui\bin\Debug\net6.0\calc_nogui.pdb
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.AssemblyInfo.cs
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.dll
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\refint\calc_nogui.dll
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.pdb
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\calc_nogui.genruntimeconfig.cache
+C:\Users\admin\Documents\code\csharp\calc_nogui\obj\Debug\net6.0\ref\calc_nogui.dll
